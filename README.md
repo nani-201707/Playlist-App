@@ -24,8 +24,8 @@ A simple **Java-based music playlist manager** that allows users to create album
 ---
 
 ## 📁 Project Structure
-
-```PlaylistApp/
+```
+PlaylistApp/
 │
 ├── IAlbum.java // Album interface
 ├── ISong.java // Song interface
@@ -38,4 +38,5 @@ A simple **Java-based music playlist manager** that allows users to create album
 ├── Main.java // Entry point
 ├── .gitignore // Ignored files
 └── README.md // Project documentation```
+
 
